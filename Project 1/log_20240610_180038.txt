@@ -1,0 +1,18 @@
+2024-06-10 18:00:52,193 - INFO - Script started.
+2024-06-10 18:05:26,616 - INFO - Attempting to connect to the database for retrieving data.
+2024-06-10 18:05:26,646 - INFO - Retrieving data with query: 
+SELECT *
+FROM dbo.DimDate
+WHERE CalendarYear = 2005;
+
+2024-06-10 18:05:26,683 - ERROR - Error retrieving data: (pyodbc.Error) ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'ODBC Driver 17 for SQL Server' : file not found (0) (SQLDriverConnect)")
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
+2024-06-10 18:17:47,185 - INFO - Script started.
+2024-06-10 18:18:28,318 - INFO - Attempting to connect to the database for retrieving data.
+2024-06-10 18:18:28,330 - INFO - Retrieving data with query: 
+SELECT *
+FROM dbo.DimDate
+WHERE CalendarYear = 2005;
+
+2024-06-10 18:18:28,392 - ERROR - Error retrieving data: (pyodbc.Error) ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'ODBC Driver 17 for SQL Server' : file not found (0) (SQLDriverConnect)")
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
