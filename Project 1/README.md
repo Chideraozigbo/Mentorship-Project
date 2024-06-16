@@ -2,7 +2,8 @@
 
 ## Overview
 
-This script, created as part of a collaborative project during a 6-month mentorship program, demonstrates how to manage and manipulate data in a SQL Server database using Python. The project was done by me and three other team members: @Alice, @Bob, and @Charlie.
+This script, created as part of a collaborative project during a 6-month mentorship program, demonstrates how to manage and manipulate data in a SQL Server database using Python. The project was done by me and three other team members: [irorohgloryebube](https://github.com/irorohgloryebube), [Glaciux](https://github.com/Glaciux)
+, [HaticeMelikzade](https://github.com/HaticeMelikzade)
 
 ## Script Breakdown
 
