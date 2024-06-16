@@ -32,9 +32,10 @@ Three key functions are defined for interacting with the database:
 2. **Export to CSV**: The retrieved sales data is exported to a CSV file.
 
 ## Contributors
-- @Chideraozigbo
-- @irorohgloryebube
-- @Glaciux
-- @HaticeMelikzade
+
+- [Chideraozigbo](https://github.com/Chideraozigbo)
+- [irorohgloryebube](https://github.com/irorohgloryebube)
+- [Glaciux](https://github.com/Glaciux)
+- [HaticeMelikzade](https://github.com/HaticeMelikzade)
 
 
